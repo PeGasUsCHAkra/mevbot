@@ -120,3 +120,5 @@ Running in different environments:
 ## License
 
 Provided "as is" without warranties.
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=traff)
